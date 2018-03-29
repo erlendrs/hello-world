@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+My first repository.
+
+I'm Erlend, and I'm new to coding.
